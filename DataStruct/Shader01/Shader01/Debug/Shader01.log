@@ -1,0 +1,4 @@
+﻿F:\C++ѧϰ�ʼ�\Shader01\Shader01\shader.vert(1,2-8): error X1504: invalid preprocessor command 'version'
+F:\C++ѧϰ�ʼ�\Shader01\Shader01\shader.vert(2,1-3): error X3000: syntax error: unexpected token 'out'
+  
+  compilation failed; no code produced

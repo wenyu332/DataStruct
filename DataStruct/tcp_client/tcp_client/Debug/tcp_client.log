@@ -1,0 +1,9 @@
+﻿  Source.cpp
+f:\c++学习笔记\tcp_client\tcp_client\source.cpp(112): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+f:\c++学习笔记\tcp_client\tcp_client\source.cpp(113): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2216): note: see declaration of 'gethostbyaddr'
+f:\c++学习笔记\tcp_client\tcp_client\source.cpp(118): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+  tcp_client.vcxproj -> F:\C++学习笔记\tcp_client\Debug\tcp_client.exe
+  tcp_client.vcxproj -> F:\C++学习笔记\tcp_client\Debug\tcp_client.pdb (Partial PDB)

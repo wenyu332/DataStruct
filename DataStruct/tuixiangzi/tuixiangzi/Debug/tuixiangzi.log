@@ -1,0 +1,75 @@
+﻿  Source.cpp
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(43): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(43): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(43): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(43): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(45): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(45): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(45): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(45): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(107): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(107): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(107): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(107): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(113): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(113): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(113): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(113): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(115): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(115): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(115): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(115): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(206): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(206): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(206): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(206): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(335): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(335): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(335): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(335): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(356): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(356): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(356): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(356): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(410): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(410): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(410): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(410): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(474): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(474): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(474): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(474): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(495): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(495): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(495): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(495): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(497): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(497): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(497): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(497): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(546): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(546): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(546): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(546): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(548): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(548): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(548): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(548): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(568): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(568): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(568): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(568): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(586): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(586): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(586): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(586): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(602): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(602): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(602): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(602): note: this argument is used as a buffer size
+f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(648): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(648): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(648): note: the missing variadic argument 2 is required by format string '%s'
+  f:\c++学习笔记\tuixiangzi\tuixiangzi\source.cpp(648): note: this argument is used as a buffer size
+  tuixiangzi.vcxproj -> F:\C++学习笔记\tuixiangzi\Debug\tuixiangzi.exe
+  tuixiangzi.vcxproj -> F:\C++学习笔记\tuixiangzi\Debug\tuixiangzi.pdb (Partial PDB)
